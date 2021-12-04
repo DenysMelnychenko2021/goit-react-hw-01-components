@@ -1,0 +1,12 @@
+.statistics {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 350px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.statistics h2 {
+  margin: 0;
+  padding: 10px;
+  font-size: 17px;
+  color: rgb(102, 102, 102);
+}
