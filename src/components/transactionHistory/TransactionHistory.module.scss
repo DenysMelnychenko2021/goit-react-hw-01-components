@@ -1,0 +1,12 @@
+.transaction-history {
+  width: 100%;
+  & thead {
+    background: rgb(206, 206, 206);
+  }
+  & tbody {
+    & tr:not(:last-child) {
+      line-height: 30px;
+      box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+    }
+  }
+}
